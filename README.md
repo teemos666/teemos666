@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teemos
-- 👀 I think I'm an interesting person
-- 🌱 I'm studying hard
+- 👀 Teemos wants to be an explorer
+- 🌱 I'm a college student and I'm studying hard
 - 💞️ Where there is a will, there is a way
 - 📫 My blog address is https://teemos.justwalking.cn/ or https://blog.csdn.net/weixin_45766049/
 
